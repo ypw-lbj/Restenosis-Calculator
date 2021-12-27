@@ -4,13 +4,18 @@
 we developed a calculator software based on ML model to predict ISR risk stratification, which only used the best combination of 8 features selected in the ML model. According to the predict score of this calculator, patients would be stratified in low or high risk of arising ISR at the cutoff operating point.
 
 <div align=center>  <img src="images/all-abnormal.svg" alt="abnormal" width="500" align="bottom" /> </div>
-
 **Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
 
-![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/all-abnormal.svg)
-![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/featureRank.svg)
-![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/featureSelect.svg)
-![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/figure4_2.jpg)
+<div align=center>  <img src="images/featureRank.svg" alt="featureRank" width="500" align="bottom" /> </div>
+**Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
+
+<div align=center>  <img src="images/featureSelect.svg" alt="featureSelect" width="500" align="bottom" /> </div>
+**Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
+
+<div align=center>  <img src="images/figure4_2.jpg" alt="figure4_2" width="500" align="bottom" /> </div>
+**Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
+
+
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## Contact
