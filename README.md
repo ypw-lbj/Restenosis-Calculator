@@ -1,6 +1,9 @@
 # Value of machine learning approach for predicting in-stent restenosis in coronary artery disease patients implanted with drug-eluting stents
 ![Python 3.6](https://img.shields.io/badge/python-3.7-DodgerBlue.svg?style=plastic)
 
+## Data preparation
+Data preparation  in this study consists of missing data imputation, data normalization, and data cleaning.
+
 we developed a calculator software based on ML model to predict ISR risk stratification, which only used the best combination of 8 features selected in the ML model. According to the predict score of this calculator, patients would be stratified in low or high risk of arising ISR at the cutoff operating point.
 
 <div align=center>  <img src="images/all-abnormal.svg" alt="abnormal" width="1000" align="bottom" /> </div>
