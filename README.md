@@ -3,7 +3,7 @@
 
 we developed a calculator software based on ML model to predict ISR risk stratification, which only used the best combination of 8 features selected in the ML model. According to the predict score of this calculator, patients would be stratified in low or high risk of arising ISR at the cutoff operating point.
 
-<div align=center>  <img src="images/all-abnormal.svg" alt="abnormal" width="500" align="bottom" /> </div>
+<div align=center>  <img src="images/all-abnormal.svg" alt="abnormal" width="1000" align="bottom" /> </div>
 **Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
 
 <div align=center>  <img src="images/featureRank.svg" alt="featureRank" width="500" align="bottom" /> </div>
