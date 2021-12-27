@@ -1,6 +1,19 @@
 # Value of machine learning approach for predicting in-stent restenosis in coronary artery disease patients implanted with drug-eluting stents
 ![Python 3.6](https://img.shields.io/badge/python-3.7-DodgerBlue.svg?style=plastic)
 
+## Setup
+* Python 3.7.6
+* scikit-learn 0.22.2
+
+Clone this repository somewhere with:
+
+    git clone https://github.com/ypw-lbj/Restenosis-Calculator.git
+    cd Restenosis-Calculator/
+
+Then from the base directory of this repository, install all dependencies with:
+
+    pip install -r requirements.txt
+
 ## Data preparation
 Data preparation  in this study consists of missing data imputation, data normalization, and data cleaning.
 
