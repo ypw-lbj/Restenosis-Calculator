@@ -18,23 +18,24 @@ Then from the base directory of this repository, install all dependencies with:
 Data preparation  in this study consists of missing data imputation, data normalization, and data cleaning.
 
 <div align=center>  <img src="images/all-abnormal.svg" alt="abnormal" width="1000" align="bottom" /> </div>
-*Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
+*Data preparation*
 
 ## Feature Rank and Selection
 
 <div align=center>  <img src="images/featureRank.svg" alt="featureRank" width="1000" align="bottom" /> </div>
-*Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
+*Feature Rank.*
 
 <div align=center>  <img src="images/featureSelect.svg" alt="featureSelect" width="800" align="bottom" /> </div>
-*Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
+*Feature Rank and Selection.*
 
 ## Software
 we developed a calculator software based on ML model to predict ISR risk stratification, which only used the best combination of 8 features selected in the ML model. According to the predict score of this calculator, patients would be stratified in low or high risk of arising ISR at the cutoff operating point.
 
 <div align=center>  <img src="images/figure4_1.jpg" alt="figure4_1" width="1000" align="bottom" /> </div>
-*Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
+*Software.*
 
 https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0
+
 RestenosisCalculator_v1.1.zip
 ## Demo
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.bilibili.com/video/BV1t34y1r7H9/)
