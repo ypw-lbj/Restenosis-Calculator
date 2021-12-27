@@ -35,7 +35,7 @@ we developed a calculator software based on ML model to predict ISR risk stratif
 *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
 
 ## Demo
-[![Watch the video]("images/video.png")](https://www.bilibili.com/video/BV1t34y1r7H9/)
+[![Watch the video](https://github.com/ypw-lbj/Restenosis-Calculator/tree/main/images/video.png)](https://www.bilibili.com/video/BV1t34y1r7H9/)
 
 ## Contact
 
