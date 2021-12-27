@@ -4,4 +4,4 @@ we developed a calculator software based on ML model to predict ISR risk stratif
 ![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/all-abnormal.svg)
 ![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/featureRank.svg)
 ![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/featureSelect.svg)
-![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/figure4_2.eps)
+![Image text](https://raw.github.com/ypw-lbj/Restenosis-Calculator/main/images/figure4_2.jpg)
