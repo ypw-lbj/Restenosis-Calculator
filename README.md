@@ -36,6 +36,7 @@ we developed a calculator software based on ML model to predict ISR risk stratif
 
 ## Demo
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.bilibili.com/video/BV1Ur4y1U72X?spm_id_from=333.851.b_62696c695f7265706f72745f646f756761.6)
 
 ## Contact
 
