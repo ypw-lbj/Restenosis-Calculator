@@ -6,13 +6,13 @@ we developed a calculator software based on ML model to predict ISR risk stratif
 <div align=center>  <img src="images/all-abnormal.svg" alt="abnormal" width="1000" align="bottom" /> </div>
 **Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
 
-<div align=center>  <img src="images/featureRank.svg" alt="featureRank" width="500" align="bottom" /> </div>
+<div align=center>  <img src="images/featureRank.svg" alt="featureRank" width="1000" align="bottom" /> </div>
 **Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
 
-<div align=center>  <img src="images/featureSelect.svg" alt="featureSelect" width="500" align="bottom" /> </div>
+<div align=center>  <img src="images/featureSelect.svg" alt="featureSelect" width="1000" align="bottom" /> </div>
 **Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
 
-<div align=center>  <img src="images/figure4_2.jpg" alt="figure4_2" width="500" align="bottom" /> </div>
+<div align=center>  <img src="images/figure4_2.jpg" alt="figure4_2" width="1000" align="bottom" /> </div>
 **Picture:**  *Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.*
 
 
