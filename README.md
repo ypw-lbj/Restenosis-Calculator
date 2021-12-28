@@ -23,30 +23,21 @@ The following picture is an example figure, using PCA dimensionality reduction f
  
 
 ## Feature Rank and Selection
-Features were selected and ranked by the contributions to outcome in every iterative decision process of the classifier.
+Features were selected and ranked by the contributions to outcome in every iterative decision process of the classifier, and its corresponding code see file `feature_select.py`. <br>.
 <div align=center>  <img src="images/featureRank.svg" alt="featureRank" width="1000" align="bottom" /> </div>
 <div align=center>  Feature Rank </div>
 
 Relationship between the area under the curve (AUC) and number of features used to classify the dataset using LightGBM.
 <div align=center>  <img src="images/featureSelect.svg" alt="featureSelect" width="800" align="bottom" /> </div>
 <div align=center>  Feature Selection </div>
-The corresponding code see file `abnormal_detect.py`. <br>
 
-## Software
-we developed a calculator software based on ML model to predict ISR risk stratification, which only used the best combination of 8 features selected in the ML model. According to the predict score of this calculator, patients would be stratified in low or high risk of arising ISR at the cutoff operating point.
+## Software and Demo
+To better apply to clinical practice of this model, we developed the ML model as a restenosis calculator, where patients could be discriminated at high or low risk for arising ISR according to the cutoff operating point. This study calculated the sensitivity and specificity of all points on the ROC curve, and the point with the best sensitivity and specificity was assigned as the cutoff operating point. 
 
-<div align=center>  <img src="images/figure4_1.jpg" alt="figure4_1" width="1000" align="bottom" /> </div>
-*Software.*
-
-https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0
-
-RestenosisCalculator_v1.1.zip
-
-## Demo
-
+The video below is a result display, it contains two examples of high risk and low risk.
 <div align=center>  <img src="images/anli_speed.gif" alt="anli_speed" width="800" align="bottom" /> </div>
-*Feature Rank.*
 
+If you want to use this software, please go to link https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0 and download the `RestenosisCalculator_v1.1.zip` file.
 ## Contact
 
 If you have any questions, feel free to E-mail me via: `yinpengwei@stu.hit.edu.cn`
