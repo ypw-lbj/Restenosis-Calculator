@@ -38,8 +38,8 @@ https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0
 
 RestenosisCalculator_v1.1.zip
 ## Demo
-![img](https://github.com/ypw-lbj/Restenosis-Calculator/tree/main/images/anli.gif)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.bilibili.com/video/BV1t34y1r7H9/)
+
+<div align=center>  <img src="images/anli.gif" alt="anli" width="800" align="bottom" /> </div>
 *Feature Rank.*
 ## Contact
 
