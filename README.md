@@ -37,10 +37,12 @@ we developed a calculator software based on ML model to predict ISR risk stratif
 https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0
 
 RestenosisCalculator_v1.1.zip
+
 ## Demo
 
 <div align=center>  <img src="images/anli.gif" alt="anli" width="800" align="bottom" /> </div>
 *Feature Rank.*
+
 ## Contact
 
 If you have any questions, feel free to E-mail me via: `yinpengwei@stu.hit.edu.cn`
