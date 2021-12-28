@@ -15,11 +15,10 @@ Then from the base directory of this repository, install all dependencies with:
     pip install -r requirements.txt
 
 ## Data preparation
-Data preparation  in this study consists of missing data imputation, data normalization, and data cleaning.
-
+Data preparation in this study consists of missing data imputation, data normalization, and **data cleaning**.
+Isolation Forest was used to distinguish outliners. The red points indicate the abnormal data which were cleared out, and the white points indicate normal data which were included for analysis. There were 3 data in ISR group and 10 data in NISR group were cleaned.
 <div align=center>  <img src="images/all-abnormal.svg" alt="abnormal" width="1000" align="bottom" /> </div>
-*Data preparation*
-
+ 
 ## Feature Rank and Selection
 
 <div align=center>  <img src="images/featureRank.svg" alt="featureRank" width="1000" align="bottom" /> </div>
