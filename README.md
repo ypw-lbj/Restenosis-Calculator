@@ -37,7 +37,7 @@ To better apply to clinical practice of this model, we developed the ML model as
 The video below is a result display, it contains two examples of high risk and low risk.
 <div align=center>  <img src="images/anli_speed.gif" alt="anli_speed" width="800" align="bottom" /> </div>
 
-If you want to use this software, please go to link https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0 and download the `RestenosisCalculator_v1.1.zip` file.
+If you want to use this software, please go to link https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0 and download the `RestenosisCalculator_v1.1.zip` file. After decompressing the file, just run “RestenosisCalculator_V1.exe”.
 ## Contact
 
 If you have any questions, feel free to E-mail me via: `yinpengwei@stu.hit.edu.cn`
