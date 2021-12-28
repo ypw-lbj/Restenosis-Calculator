@@ -39,7 +39,8 @@ https://github.com/ypw-lbj/Restenosis-Calculator/releases/tag/v1.1.0
 RestenosisCalculator_v1.1.zip
 ## Demo
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.bilibili.com/video/BV1t34y1r7H9/)
-
+<div align=center>  <img src="images/anli.gif" alt="featureRank" width="1000" align="bottom" /> </div>
+*Feature Rank.*
 ## Contact
 
 If you have any questions, feel free to E-mail me via: `yinpengwei@stu.hit.edu.cn`
