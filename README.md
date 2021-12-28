@@ -40,7 +40,7 @@ RestenosisCalculator_v1.1.zip
 
 ## Demo
 
-<div align=center>  <img src="images/anli.gif" alt="anli" width="800" align="bottom" /> </div>
+<div align=center>  <img src="images/anli_speed.gif" alt="anli_speed" width="800" align="bottom" /> </div>
 *Feature Rank.*
 
 ## Contact
